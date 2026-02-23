@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\OOPaula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\OOPaula1.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\OOPaula1.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\OOPaula1.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\OOPaula1.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\bin\Debug\net8.0\OOPaula1.exe
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\bin\Debug\net8.0\OOPaula1.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\bin\Debug\net8.0\OOPaula1.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\bin\Debug\net8.0\OOPaula1.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\bin\Debug\net8.0\OOPaula1.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\OOPaula1.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\refint\OOPaula1.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\OOPaula1.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\OOPaula1.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula2-OOP\OOPaula1\OOPaula1\obj\Debug\net8.0\ref\OOPaula1.dll

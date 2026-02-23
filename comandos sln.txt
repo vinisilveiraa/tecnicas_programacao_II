@@ -1,0 +1,50 @@
+COMANDOS PARA CRIAR PROJETO .NET E ADICIONAR À SOLUÇÃO
+
+1) Criar uma solução
+--------------------------------------------------
+dotnet new sln -n MinhaSolucao
+
+
+2) Criar um projeto (instância)
+
+Exemplo - Console:
+--------------------------------------------------
+dotnet new console -n MeuProjeto
+
+
+Exemplo - Web API:
+--------------------------------------------------
+dotnet new webapi -n MinhaApi
+
+
+Exemplo - Class Library:
+--------------------------------------------------
+dotnet new classlib -n MinhaBiblioteca
+
+
+3) Adicionar o projeto à solução
+--------------------------------------------------
+dotnet sln MinhaSolucao.sln add MeuProjeto/MeuProjeto.csproj
+
+Ou (se estiver na pasta da solução):
+--------------------------------------------------
+dotnet sln add MeuProjeto/MeuProjeto.csproj
+
+
+4) Adicionar referência entre projetos (opcional)
+--------------------------------------------------
+dotnet add MeuProjeto reference MinhaBiblioteca/MinhaBiblioteca.csproj
+
+
+5) Restaurar e compilar
+--------------------------------------------------
+dotnet restore
+dotnet build
+
+
+Fluxo completo resumido
+--------------------------------------------------
+dotnet new sln -n MinhaSolucao
+dotnet new webapi -n MinhaApi
+dotnet sln add MinhaApi/MinhaApi.csproj
+dotnet build
