@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula3- arrays\\array_arraylist_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536A3D64-8DAB-4EFB-9FAA-71A85F4D8434}|..\\ConsoleApp1\\List.csproj|c:\\users\\0201392511018\\tecnicas_programacao_ii\\aula3- arrays\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C21B599-F79F-4298-B57E-39C635FC1DD8}|..\\ArrayList\\ArrayList.csproj|c:\\users\\0201392511018\\tecnicas_programacao_ii\\aula3- arrays\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula3- arrays\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ArrayList\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula3- arrays\\ArrayList\\Program.cs",
+              "RelativeToolTip": "..\\ArrayList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:24:18.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula3- arrays\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula3- arrays\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:23:26.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

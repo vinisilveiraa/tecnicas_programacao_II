@@ -1,0 +1,7 @@
+array - nao cresce dinamicamente, 1 tipo
+arraylist - cresce dinamicamente, varios tipos
+list - cresce dinamicamente, 1 tipo
+
+a variavel e guardada na STACK
+seu conteudo passa por um BOXING, virando um objeto e é guardado na HEAP. 
+ao trabalhar com ele passa por um UMBOXING para voltar ao seu tipo original
