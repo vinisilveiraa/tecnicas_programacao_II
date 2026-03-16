@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\sync.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\sync.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\sync.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\sync.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\bin\Debug\net9.0\sync.exe
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\bin\Debug\net9.0\sync.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\bin\Debug\net9.0\sync.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\bin\Debug\net9.0\sync.dll
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\bin\Debug\net9.0\sync.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\sync.dll
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\refint\sync.dll
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\sync.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\sync.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\Aula5-Programacao_Assincrona\sync\obj\Debug\net9.0\ref\sync.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula5-Programacao_Assincrona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB7E3D5-F175-47A0-A08E-8F7A90DC88C2}|async\\async.csproj|c:\\users\\0201392511018\\tecnicas_programacao_ii\\aula5-programacao_assincrona\\async\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB7E3D5-F175-47A0-A08E-8F7A90DC88C2}|async\\async.csproj|solutionrelative:async\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABACCF2-170F-4DBB-ADF5-54F13F871539}|sync\\sync.csproj|c:\\users\\0201392511018\\tecnicas_programacao_ii\\aula5-programacao_assincrona\\sync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABACCF2-170F-4DBB-ADF5-54F13F871539}|sync\\sync.csproj|solutionrelative:sync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula5-Programacao_Assincrona\\async\\Program.cs",
+              "RelativeDocumentMoniker": "async\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula5-Programacao_Assincrona\\async\\Program.cs",
+              "RelativeToolTip": "async\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:53:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula5-Programacao_Assincrona\\sync\\Program.cs",
+              "RelativeDocumentMoniker": "sync\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\aula5-Programacao_Assincrona\\sync\\Program.cs",
+              "RelativeToolTip": "sync\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:53:29.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
