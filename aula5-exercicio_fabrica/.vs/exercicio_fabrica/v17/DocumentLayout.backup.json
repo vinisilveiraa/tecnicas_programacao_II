@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\exercicio_fabrica\\exercicio_fabrica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|solutionrelative:exercicio_fabrica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\exercicio_fabrica\\exercicio_fabrica\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|solutionrelative:exercicio_fabrica\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\exercicio_fabrica\\exercicio_fabrica\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|solutionrelative:exercicio_fabrica\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\exercicio_fabrica\\exercicio_fabrica\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|solutionrelative:exercicio_fabrica\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\exercicio_fabrica\\exercicio_fabrica\\maquinanaoencontradaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|solutionrelative:exercicio_fabrica\\maquinanaoencontradaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\exercicio_fabrica\\exercicio_fabrica\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231C225E-21BF-4BD5-9788-D92DEBBD6F68}|exercicio_fabrica\\exercicio_fabrica.csproj|solutionrelative:exercicio_fabrica\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaquinaNaoEncontradaException.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\MaquinaNaoEncontradaException.cs",
+              "RelativeDocumentMoniker": "exercicio_fabrica\\MaquinaNaoEncontradaException.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\MaquinaNaoEncontradaException.cs",
+              "RelativeToolTip": "exercicio_fabrica\\MaquinaNaoEncontradaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T23:17:38.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Equipamento.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Equipamento.cs",
+              "RelativeDocumentMoniker": "exercicio_fabrica\\Equipamento.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Equipamento.cs",
+              "RelativeToolTip": "exercicio_fabrica\\Equipamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T23:04:43.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operador.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Operador.cs",
+              "RelativeDocumentMoniker": "exercicio_fabrica\\Operador.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Operador.cs",
+              "RelativeToolTip": "exercicio_fabrica\\Operador.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T23:04:39.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Maquina.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Maquina.cs",
+              "RelativeDocumentMoniker": "exercicio_fabrica\\Maquina.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Maquina.cs",
+              "RelativeToolTip": "exercicio_fabrica\\Maquina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T23:04:37.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fabrica.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Fabrica.cs",
+              "RelativeDocumentMoniker": "exercicio_fabrica\\Fabrica.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Fabrica.cs",
+              "RelativeToolTip": "exercicio_fabrica\\Fabrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T23:04:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio_fabrica\\Program.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\exercicio_fabrica\\exercicio_fabrica\\Program.cs",
+              "RelativeToolTip": "exercicio_fabrica\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:30:43.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\exercicio_fabrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\exercicio_fabrica.AssemblyInfoInputs.cache
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\exercicio_fabrica.AssemblyInfo.cs
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\exercicio_fabrica.csproj.CoreCompileInputs.cache
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\exercicio_fabrica.sourcelink.json
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\bin\Debug\net9.0\exercicio_fabrica.exe
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\bin\Debug\net9.0\exercicio_fabrica.deps.json
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\bin\Debug\net9.0\exercicio_fabrica.runtimeconfig.json
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\bin\Debug\net9.0\exercicio_fabrica.dll
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\bin\Debug\net9.0\exercicio_fabrica.pdb
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\exercicio_fabrica.dll
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\refint\exercicio_fabrica.dll
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\exercicio_fabrica.pdb
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\exercicio_fabrica.genruntimeconfig.cache
+C:\Fatec Estudos\tecnicas_programacao_II\exercicio_fabrica\exercicio_fabrica\obj\Debug\net9.0\ref\exercicio_fabrica.dll
