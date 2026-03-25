@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\bin\Debug\net5.0\Mediator1.exe
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\bin\Debug\net5.0\Mediator1.deps.json
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\bin\Debug\net5.0\Mediator1.runtimeconfig.json
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\bin\Debug\net5.0\Mediator1.runtimeconfig.dev.json
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\bin\Debug\net5.0\Mediator1.dll
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\bin\Debug\net5.0\ref\Mediator1.dll
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\bin\Debug\net5.0\Mediator1.pdb
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\Mediator1.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\Mediator1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\Mediator1.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\Mediator1.AssemblyInfo.cs
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\Mediator1.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\Mediator1.dll
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\ref\Mediator1.dll
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\Mediator1.pdb
+D:\_serie_design_patterns\3__Comportamentais\6_Mediator\Mediator1\Mediator1\obj\Debug\net5.0\Mediator1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\bin\Debug\net9.0\Mediator1.exe
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\bin\Debug\net9.0\Mediator1.deps.json
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\bin\Debug\net9.0\Mediator1.runtimeconfig.json
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\bin\Debug\net9.0\Mediator1.dll
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\bin\Debug\net9.0\Mediator1.pdb
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\Mediator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\Mediator1.AssemblyInfoInputs.cache
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\Mediator1.AssemblyInfo.cs
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\Mediator1.csproj.CoreCompileInputs.cache
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\Mediator1.sourcelink.json
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\Mediator1.dll
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\refint\Mediator1.dll
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\Mediator1.pdb
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\Mediator1.genruntimeconfig.cache
+C:\Fatec Estudos\tecnicas_programacao_II\mediator-exemplo\Mediator1\obj\Debug\net9.0\ref\Mediator1.dll

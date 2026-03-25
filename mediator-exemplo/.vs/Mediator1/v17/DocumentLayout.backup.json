@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\mediator-exemplo\\mediator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|solutionrelative:mediator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\mediator-exemplo\\mediator1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|solutionrelative:mediator1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\mediator-exemplo\\mediator1\\concretefacebookgroupmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|solutionrelative:mediator1\\concretefacebookgroupmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\mediator-exemplo\\mediator1\\concreteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|solutionrelative:mediator1\\concreteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|c:\\fatec estudos\\tecnicas_programacao_ii\\mediator-exemplo\\mediator1\\facebookgroupmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1158393D-3446-4299-801E-9BFA23E8B89A}|Mediator1\\Mediator1.csproj|solutionrelative:mediator1\\facebookgroupmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\User.cs",
+              "RelativeDocumentMoniker": "Mediator1\\User.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\User.cs",
+              "RelativeToolTip": "Mediator1\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:52:03.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConcreteFacebookGroupMediator.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\ConcreteFacebookGroupMediator.cs",
+              "RelativeDocumentMoniker": "Mediator1\\ConcreteFacebookGroupMediator.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\ConcreteFacebookGroupMediator.cs",
+              "RelativeToolTip": "Mediator1\\ConcreteFacebookGroupMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:51:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcreteUser.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\ConcreteUser.cs",
+              "RelativeDocumentMoniker": "Mediator1\\ConcreteUser.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\ConcreteUser.cs",
+              "RelativeToolTip": "Mediator1\\ConcreteUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:51:57.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacebookGroupMediator.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\FacebookGroupMediator.cs",
+              "RelativeDocumentMoniker": "Mediator1\\FacebookGroupMediator.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\FacebookGroupMediator.cs",
+              "RelativeToolTip": "Mediator1\\FacebookGroupMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:51:57.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\Program.cs",
+              "RelativeDocumentMoniker": "Mediator1\\Program.cs",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\Program.cs",
+              "RelativeToolTip": "Mediator1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:50:20.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
