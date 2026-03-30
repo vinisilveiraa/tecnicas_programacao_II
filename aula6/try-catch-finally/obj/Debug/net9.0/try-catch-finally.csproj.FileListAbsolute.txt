@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\try-catch-finally.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\try-catch-finally.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\try-catch-finally.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\bin\Debug\net9.0\try-catch-finally.exe
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\bin\Debug\net9.0\try-catch-finally.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\bin\Debug\net9.0\try-catch-finally.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\bin\Debug\net9.0\try-catch-finally.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\bin\Debug\net9.0\try-catch-finally.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\try-catch-finally.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\refint\try-catch-finally.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\try-catch-finally.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\try-catch-finally.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\try-catch-finally\obj\Debug\net9.0\ref\try-catch-finally.dll

@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\bin\Debug\net9.0\personalizada.exe
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\bin\Debug\net9.0\personalizada.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\bin\Debug\net9.0\personalizada.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\bin\Debug\net9.0\personalizada.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\bin\Debug\net9.0\personalizada.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\personalizada.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\personalizada.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\personalizada.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\personalizada.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\personalizada.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\refint\personalizada.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\personalizada.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\personalizada.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula6\personalizada\obj\Debug\net9.0\ref\personalizada.dll
