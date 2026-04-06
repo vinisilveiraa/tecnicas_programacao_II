@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\bin\Debug\net9.0\eventos.exe
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\bin\Debug\net9.0\eventos.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\bin\Debug\net9.0\eventos.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\bin\Debug\net9.0\eventos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\bin\Debug\net9.0\eventos.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\eventos.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\eventos.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\eventos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\eventos.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\eventos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\refint\eventos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\eventos.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\eventos.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventos\obj\Debug\net9.0\ref\eventos.dll

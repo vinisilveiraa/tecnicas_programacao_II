@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\bin\Debug\net9.0\eventHandle_ComArgumentos.exe
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\bin\Debug\net9.0\eventHandle_ComArgumentos.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\bin\Debug\net9.0\eventHandle_ComArgumentos.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\bin\Debug\net9.0\eventHandle_ComArgumentos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\bin\Debug\net9.0\eventHandle_ComArgumentos.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\eventHandle_ComArgumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\eventHandle_ComArgumentos.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\eventHandle_ComArgumentos.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\eventHandle_ComArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\eventHandle_ComArgumentos.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\eventHandle_ComArgumentos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\refint\eventHandle_ComArgumentos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\eventHandle_ComArgumentos.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\eventHandle_ComArgumentos.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle_ComArgumentos\obj\Debug\net9.0\ref\eventHandle_ComArgumentos.dll

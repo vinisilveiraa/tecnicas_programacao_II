@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\bin\Debug\net9.0\eventHandle_SemArgumentos.exe
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\bin\Debug\net9.0\eventHandle_SemArgumentos.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\bin\Debug\net9.0\eventHandle_SemArgumentos.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\bin\Debug\net9.0\eventHandle_SemArgumentos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\bin\Debug\net9.0\eventHandle_SemArgumentos.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\eventHandle_SemArgumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\eventHandle_SemArgumentos.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\eventHandle_SemArgumentos.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\eventHandle_SemArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\eventHandle_SemArgumentos.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\eventHandle_SemArgumentos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\refint\eventHandle_SemArgumentos.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\eventHandle_SemArgumentos.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\eventHandle_SemArgumentos.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula7-delegate\eventHandle\obj\Debug\net9.0\ref\eventHandle_SemArgumentos.dll
