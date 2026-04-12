@@ -42,8 +42,7 @@
               "RelativeToolTip": "Mediator1\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T19:52:03.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T19:52:03.945Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Mediator1\\ConcreteFacebookGroupMediator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T19:51:58.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T19:51:58.919Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Mediator1\\ConcreteUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T19:51:57.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T19:51:57.902Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "Mediator1\\FacebookGroupMediator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T19:51:57.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T19:51:57.159Z"
             },
             {
               "$type": "Document",
@@ -90,9 +86,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\Program.cs",
               "RelativeDocumentMoniker": "Mediator1\\Program.cs",
-              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\Program.cs",
-              "RelativeToolTip": "Mediator1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Fatec Estudos\\tecnicas_programacao_II\\mediator-exemplo\\Mediator1\\Program.cs*",
+              "RelativeToolTip": "Mediator1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T19:50:20.98Z",
               "EditorCaption": ""

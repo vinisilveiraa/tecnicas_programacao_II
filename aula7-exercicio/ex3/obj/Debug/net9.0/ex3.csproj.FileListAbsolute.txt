@@ -1,0 +1,15 @@
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\bin\Debug\net9.0\ex3.exe
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\bin\Debug\net9.0\ex3.deps.json
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\bin\Debug\net9.0\ex3.runtimeconfig.json
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\bin\Debug\net9.0\ex3.dll
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\bin\Debug\net9.0\ex3.pdb
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ex3.AssemblyInfoInputs.cache
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ex3.AssemblyInfo.cs
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ex3.csproj.CoreCompileInputs.cache
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ex3.sourcelink.json
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ex3.dll
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\refint\ex3.dll
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ex3.pdb
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ex3.genruntimeconfig.cache
+C:\Fatec Estudos\tecnicas_programacao_II\aula7-exercicio\ex3\obj\Debug\net9.0\ref\ex3.dll
