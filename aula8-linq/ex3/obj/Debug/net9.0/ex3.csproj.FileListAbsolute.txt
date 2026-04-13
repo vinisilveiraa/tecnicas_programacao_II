@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\bin\Debug\net9.0\ex3.exe
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\bin\Debug\net9.0\ex3.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\bin\Debug\net9.0\ex3.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\bin\Debug\net9.0\ex3.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\bin\Debug\net9.0\ex3.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ex3.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ex3.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ex3.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ex3.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\refint\ex3.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ex3.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ex3.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula8-linq\ex3\obj\Debug\net9.0\ref\ex3.dll
