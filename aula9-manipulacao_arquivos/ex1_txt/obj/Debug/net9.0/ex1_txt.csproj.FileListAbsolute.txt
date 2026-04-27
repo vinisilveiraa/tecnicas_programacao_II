@@ -1,0 +1,15 @@
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\bin\Debug\net9.0\ex1_txt.exe
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\bin\Debug\net9.0\ex1_txt.deps.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\bin\Debug\net9.0\ex1_txt.runtimeconfig.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\bin\Debug\net9.0\ex1_txt.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\bin\Debug\net9.0\ex1_txt.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ex1_txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ex1_txt.AssemblyInfoInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ex1_txt.AssemblyInfo.cs
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ex1_txt.csproj.CoreCompileInputs.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ex1_txt.sourcelink.json
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ex1_txt.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\refint\ex1_txt.dll
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ex1_txt.pdb
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ex1_txt.genruntimeconfig.cache
+C:\Users\0201392511018\tecnicas_programacao_II\aula9-manipulacao_arquivos\ex1_txt\obj\Debug\net9.0\ref\ex1_txt.dll
