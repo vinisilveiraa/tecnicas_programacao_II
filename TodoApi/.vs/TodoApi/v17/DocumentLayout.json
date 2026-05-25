@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB31A703-53BD-4957-86C0-864CD6693B43}|TodoApi\\TodoApi.csproj|c:\\users\\0201392511018\\tecnicas_programacao_ii\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB31A703-53BD-4957-86C0-864CD6693B43}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB31A703-53BD-4957-86C0-864CD6693B43}|TodoApi\\TodoApi.csproj|c:\\users\\0201392511018\\tecnicas_programacao_ii\\todoapi\\todoapi\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB31A703-53BD-4957-86C0-864CD6693B43}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\TodoApi\\TodoApi\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\TodoApi\\TodoApi\\Program.cs",
-              "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:01:48.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TarefasController.cs",
               "DocumentMoniker": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\TodoApi\\TodoApi\\Controllers\\TarefasController.cs",
               "RelativeDocumentMoniker": "TodoApi\\Controllers\\TarefasController.cs",
               "ToolTip": "C:\\Users\\0201392511018\\tecnicas_programacao_II\\TodoApi\\TodoApi\\Controllers\\TarefasController.cs",
               "RelativeToolTip": "TodoApi\\Controllers\\TarefasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T13:57:51.561Z",
               "EditorCaption": ""

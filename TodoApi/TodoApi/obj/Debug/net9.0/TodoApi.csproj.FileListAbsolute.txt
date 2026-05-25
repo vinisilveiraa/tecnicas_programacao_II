@@ -42,3 +42,4 @@ C:\Users\0201392511018\tecnicas_programacao_II\TodoApi\TodoApi\obj\Debug\net9.0\
 C:\Users\0201392511018\tecnicas_programacao_II\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\0201392511018\tecnicas_programacao_II\TodoApi\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\0201392511018\tecnicas_programacao_II\TodoApi\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Users\0201392511018\tecnicas_programacao_II\TodoApi\TodoApi\bin\Debug\net9.0\package-lock.json
