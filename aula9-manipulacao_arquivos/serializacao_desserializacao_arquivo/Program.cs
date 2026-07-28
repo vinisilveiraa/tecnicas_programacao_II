@@ -1,4 +1,4 @@
-﻿using System.Text.Json;
+﻿using System.Text.Json; // precisa disso
 
 // cria o arquivo
 // salva na projeto\serializacao_desserializacao_arquivo\bin\Debug\net9.0

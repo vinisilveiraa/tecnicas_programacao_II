@@ -1,0 +1,266 @@
+/* --- Estilos Globais e Reset --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #f8fafc; /* Cinza bem clarinho moderno */
+  color: #334155;
+  padding: 40px 20px;
+}
+
+/* --- Container Principal --- */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+/* --- Formulário de Cadastro/Edição --- */
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 35px;
+  background: #f1f5f9;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.formulario input, 
+.formulario textarea {
+  width: 100%;
+  padding: 12px 16px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-size: 14px;
+  background-color: #fff;
+  transition: all 0.2s;
+}
+
+.formulario input:focus, 
+.formulario textarea:focus {
+  outline: none;
+  border-color: #3b82f6; /* Azul highlight */
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+
+.formulario textarea {
+  resize: vertical;
+  height: 80px;
+}
+
+.btn-salvar {
+  background-color: #2563eb;
+  color: white;
+  font-weight: 600;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-salvar:hover {
+  background-color: #1d4ed8;
+}
+
+/* --- Tabela de Tarefas --- */
+.tabela-container {
+  overflow-x: auto; /* Garante que não quebre em telas menores */
+}
+
+.tabela-tarefas {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.tabela-tarefas th {
+  background-color: #f8fafc;
+  color: #64748b;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 16px;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.tabela-tarefas td {
+  padding: 16px;
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 15px;
+  color: #334155;
+}
+
+.tabela-tarefas tr:hover {
+  background-color: #f8fafc; /* Efeito hover na linha */
+}
+
+/* --- Badges de Status --- */
+.status-badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 9999px; /* Efeito pílula */
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.status-concluida {
+  background-color: #dcfce7;
+  color: #15803d;
+}
+
+.status-aguardando {
+  background-color: #fef9c3;
+  color: #a16207;
+}
+
+/* --- Botões de Ações --- */
+.acoes-col {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-acao {
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 500;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-status {
+  background-color: #f1f5f9;
+  color: #475569;
+  border-color: #cbd5e1;
+}
+
+.btn-status:hover {
+  background-color: #e2e8f0;
+}
+
+.btn-editar {
+  background-color: #eff6ff;
+  color: #1d4ed8;
+}
+
+.btn-editar:hover {
+  background-color: #dbeafe;
+}
+
+.btn-deletar {
+  background-color: #fef2f2;
+  color: #dc2626;
+}
+
+.btn-deletar:hover {
+  background-color: #fee2e2;
+}
+/* --- Formulário de Cadastro/Edição Totalmente Repaginado --- */
+.formulario {
+  display: grid;
+  grid-template-columns: 1fr; /* Padrão empilhado elegante */
+  gap: 16px;
+  margin-bottom: 40px;
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0; /* Borda fina em vez de fundo escuro */
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* Quando a tela for maior (computador), os campos ficam lado a lado para economizar espaço */
+@media (min-width: 600px) {
+  .formulario {
+    grid-template-columns: 2fr 3fr auto; /* Título menor, Descrição maior, Botão automático */
+    align-items: end; /* Alinha o botão por baixo com os inputs */
+  }
+}
+
+.formulario-grupo {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.formulario-grupo label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.formulario input, 
+.formulario textarea {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 14px;
+  background-color: #f8fafc; /* Input levemente cinza, destaca no fundo branco */
+  color: #1e293b;
+  transition: all 0.2s ease;
+}
+
+/* Ajuste no textarea para não quebrar o alinhamento em linha */
+.formulario textarea {
+  resize: none;
+  height: 45px; /* Mesma altura do input padrão */
+  white-space: nowrap; /* Evita quebra de linha visual enquanto digita */
+}
+
+.formulario input:focus, 
+.formulario textarea:focus {
+  outline: none;
+  border-color: #2563eb;
+  background-color: #ffffff; /* Fica branco quando o usuário clica */
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.1);
+}
+
+.btn-salvar {
+  background-color: #2563eb;
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+  height: 45px; /* Mesma altura dos inputs */
+  padding: 0 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: all 0.2s;
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+
+.btn-salvar:hover {
+  background-color: #1d4ed8;
+  transform: translateY(-1px); /* Leve efeito de flutuar ao passar o mouse */
+  box-shadow: 0 4px 6px rgba(37, 99, 235, 0.3);
+}
+
+.btn-salvar:active {
+  transform: translateY(0);
+}

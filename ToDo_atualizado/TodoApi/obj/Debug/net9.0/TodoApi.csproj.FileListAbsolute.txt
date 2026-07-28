@@ -1,0 +1,86 @@
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\appsettings.Development.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\appsettings.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\TodoApi.staticwebassets.endpoints.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\TodoApi.exe
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\TodoApi.deps.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\TodoApi.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\TodoApi.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\TodoApi.pdb
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\DnsClient.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\SharpCompress.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\Snappier.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\bin\Debug\net9.0\ZstdSharp.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.csproj.AssemblyReference.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\scopedcss\bundle\TodoApi.styles.css
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.build.TodoApi.props
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.csproj.Up2Date
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\refint\TodoApi.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.pdb
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\ToDo\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\appsettings.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\TodoApi.staticwebassets.endpoints.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\TodoApi.exe
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\TodoApi.deps.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\TodoApi.runtimeconfig.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\TodoApi.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\TodoApi.pdb
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\DnsClient.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\SharpCompress.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\Snappier.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\bin\Debug\net9.0\ZstdSharp.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.csproj.AssemblyReference.cache
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfoInputs.cache
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfo.cs
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\scopedcss\bundle\TodoApi.styles.css
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.csproj.Up2Date
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\refint\TodoApi.dll
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.pdb
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
+C:\Fatec Estudos\tecnicas_programacao_II\ToDo_atualizado\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll

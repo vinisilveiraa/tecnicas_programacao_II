@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\revisao_p1\\p1_resumo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4979AEB-82C6-4D79-B93D-D6E12F4CA997}|LINQ\\LINQ.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\revisao_p1\\p1_resumo\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4979AEB-82C6-4D79-B93D-D6E12F4CA997}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\revisao_p1\\p1_resumo\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\revisao_p1\\p1_resumo\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAkwM4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:05:45.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
